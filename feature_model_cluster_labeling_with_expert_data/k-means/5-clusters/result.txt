@@ -1,0 +1,5 @@
+cluster 4 : very bad (0.7)
+cluster 2 : bad (1.0464285714285755)
+cluster 0 : moderate (1.3439024390243934)
+cluster 1 : good (1.4729166666666678)
+cluster 3 : very good (1.5226190476190393)
